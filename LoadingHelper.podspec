@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LoadingHelper"
-  s.version      = "0.1.2"
+  s.version      = "0.1.3"
   s.summary      = "A LoadingHelper."
   s.homepage     = "https://github.com/alexandrenc/LoadingHelper"
   s.license      = 'MIT'
